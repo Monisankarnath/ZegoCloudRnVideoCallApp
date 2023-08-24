@@ -1,6 +1,6 @@
 # React Native Video Call Application | Start with ZegoCloud UIKits
 
-![Video Call Application Build](https://ibb.co/kcZC8Vk)
+![Video Call Application Build](https://ibb.co/kcZC8Vk/vc.jpg)
 
 ## Go to the YouTube Video
 
